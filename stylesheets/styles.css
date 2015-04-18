@@ -250,6 +250,20 @@ h1.header, a.header, a.name, header a{
 	color: #fff;
 }
 
+h3.header {
+	font-family: Arvo, sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 1.3em;
+	border-bottom: none;
+	margin-top: 0;
+}
+
+
+h3.header, a.header, a.name, header a{
+	color: #fff;
+}
+
 a.header {
 	text-decoration: underline;
 }
